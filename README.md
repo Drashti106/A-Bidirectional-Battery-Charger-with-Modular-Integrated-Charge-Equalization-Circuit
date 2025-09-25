@@ -1,0 +1,3 @@
+# A-Bidirectional-Battery-Charger-with-Modular-Integrated-Charge-Equalization-Circuit
+Designed and simulated a bidirectional battery charger with modular charge equalization circuit (CEC), integrating PLL-based reference generation, dual-loop PI controllers, and CC-CV charging, achieving improved power factor (0.97), THD &lt;5%, and enhanced battery life through SOC balancing.
+Implemented system architecture, protection circuits, and DSP-based control with simulation and hardware testing, ensuring reliable bidirectional power flow (G2V/V2G) and scalable modular operation for electric vehicle applications.
